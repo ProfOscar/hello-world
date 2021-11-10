@@ -17,3 +17,4 @@ Normal text
 2. James Monroe
 3. John Quincy Adams
 
+Now I'm ready for the first merge...
